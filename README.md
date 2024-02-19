@@ -7,7 +7,7 @@
 - 🏫 **Scool:** Ipso School, Basel
 - 📚 **Role:** EFZ Applikationsentwickler
 - 💻 **Focus:** Getting my EFZ and learning a lot in this time
-- 🌱 **Currently Searching:** I am currently searching for a internship for 2 years to finish my EFZ
+- 🌱 **Currently Searching:** I am currently searching for an internship for 2 years to finish my EFZ
 
 ## Projects
 
