@@ -17,6 +17,8 @@ Here, you'll find a variety of projects showcasing my application development sk
  - Maui development
  - Website development with Java and css frameworks
 
+ - TODO / Portfolio 
+
 ## Get in Touch
 
 Feel free to reach out if you're interested in collaborating or if you have questions about my projects. Your feedback and inquiries are always welcome!
