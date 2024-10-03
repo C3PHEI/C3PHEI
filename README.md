@@ -7,11 +7,15 @@
 - 🏫 **Scool:** Ipso School, Basel
 - 📚 **Role:** EFZ Applikationsentwickler
 - 💻 **Focus:** Getting my EFZ and learning a lot in this time
-- 🌱 **Currently Searching:** I am currently searching for an internship for 2 years to finish my EFZ
 
 ## Projects
 
 Here, you'll find a variety of projects showcasing my application development skills. Each project is a testament to my dedication to delivering exceptional software that meets the needs of educators and learners alike.
+
+ - REST API development
+ - WPF development
+ - Maui development
+ - Website development with Java and css frameworks
 
 ## Get in Touch
 
