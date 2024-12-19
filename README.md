@@ -7,6 +7,7 @@
 - 🏫 **Scool:** Ipso School, Basel
 - 📚 **Role:** EFZ Applikationsentwickler
 - 💻 **Focus:** Getting my EFZ and learning a lot in this time
+-  🗄 **Internship:** Currently working in Stans (Switzerland) at the company intelitec
 
 ## Projects
 
