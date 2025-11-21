@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🏫 **Scool:** Ipso School, Basel
+- 🏫 **School:** Ipso School, Basel
 - 📚 **Role:** EFZ Applikationsentwickler
 - 💻 **Focus:** Getting my EFZ and learning a lot in this time
 -  🗄 **Internship:** Currently working in Stans (Switzerland) at the company intelitec
@@ -16,7 +16,7 @@ Here, you'll find a variety of projects showcasing my application development sk
  - REST API development
  - WPF development
  - Maui development
- - Website development with Java and css frameworks
+ - Website development with Javascript and css frameworks
 
  - TODO / Portfolio 
 
