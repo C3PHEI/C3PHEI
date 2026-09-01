@@ -41,6 +41,8 @@ Application developer (Applikationsentwickler EFZ) based in Switzerland. I build
 
 **Weather app** — Small WPF client consuming a public weather API, again on MVVM.
 
+Currently building my own portfolio website.
+
 ### Beyond code
 
 IoT and energy management from my time at intelitec: KNX, Node-RED, InfluxDB pipelines and ThingsBoard dashboards — including a power control system for SBB railway tracks. German, French and English.
