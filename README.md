@@ -1,30 +1,52 @@
-# Welcome to My GitHub Page!
+## Maximilian Läpple
 
-👋 Hi, I'm a passionate Developer working at the Ipso School in Basel as EFZ/Applikationsentwicklung. Here, I show my Projects that i do for school or in my free time. My work is driven by a deep commitment to quality and a keen interest in exploring the latest in technology.
+Application developer (Applikationsentwickler EFZ) based in Switzerland. I build backends in C#/.NET and frontends in JavaScript, and I spend most of my time on the parts nobody sees: data models, APIs, authentication and deployments that keep running without me.
 
-## About Me
+### Stack
 
-- 🏫 **School:** Ipso School, Basel
-- 📚 **Role:** EFZ Applikationsentwickler
-- 💻 **Focus:** Getting my EFZ and learning a lot in this time
--  🗄 **Internship:** Currently working in Stans (Switzerland) at the company intelitec
+**Backend**
+![C#](https://img.shields.io/badge/C%23-1f2328?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-1f2328?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1f2328?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1f2328?style=flat-square&logo=express&logoColor=white)
 
-## Projects
+**Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2328?style=flat-square&logo=javascript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-1f2328?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=white)
 
-Here, you'll find a variety of projects showcasing my application development skills. Each project is a testament to my dedication to delivering exceptional software that meets the needs of educators and learners alike.
+**Data**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2328?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-1f2328?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1f2328?style=flat-square&logo=mongodb&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-1f2328?style=flat-square&logo=influxdb&logoColor=white)
 
- - REST API development
- - WPF development
- - Maui development
- - Website development with Javascript and css frameworks
+**Infrastructure**
+![Docker](https://img.shields.io/badge/Docker-1f2328?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1f2328?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1f2328?style=flat-square&logo=git&logoColor=white)
 
- - TODO / Portfolio 
+**Currently learning**
+![Rust](https://img.shields.io/badge/Rust-1f2328?style=flat-square&logo=rust&logoColor=white)
 
-## Get in Touch
+### Selected work
 
-Feel free to reach out if you're interested in collaborating or if you have questions about my projects. Your feedback and inquiries are always welcome!
+**FeedbackHub** — Guest feedback portal built as my final apprenticeship project (IPA). Vanilla JS frontend, C#/.NET backend, PostgreSQL, single sign-on via Microsoft Entra ID (OAuth 2.0 / PKCE), with rate limiting and a UUID-based schema.
 
-- 📧 **Email:** [maximilian.laepple@gmail.com]
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/maximilian-l%C3%A4pple-78a0892a4]
+**ImovatecApi** — .NET service that pulls telemetry from ThingsBoard and publishes it over MQTT. Runs in Docker, deployed via GitHub Actions and Portainer.
 
-Thank you for visiting my GitHub page!
+**Blackjack** — Desktop card game in WPF, built with MVVM.
+
+**UNO** — C# console implementation of the card game, written from scratch to get the game logic and state handling right.
+
+**Weather app** — Small WPF client consuming a public weather API, again on MVVM.
+
+### Beyond code
+
+IoT and energy management from my time at intelitec: KNX, Node-RED, InfluxDB pipelines and ThingsBoard dashboards — including a power control system for SBB railway tracks. German, French and English.
+
+### Contact
+
+Always open to interesting backend or full-stack work in Switzerland.
+
+📧 [maximilian.laepple@gmail.com](mailto:maximilian.laepple@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/maximilian-l%C3%A4pple-78a0892a4)
