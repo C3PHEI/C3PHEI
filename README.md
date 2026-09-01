@@ -7,8 +7,12 @@ Application developer (Applikationsentwickler EFZ) based in Switzerland. I build
 **Backend**
 ![C#](https://img.shields.io/badge/C%23-1f2328?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-1f2328?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-1f2328?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF%20Core-1f2328?style=flat-square&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-1f2328?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-1f2328?style=flat-square&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-1f2328?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-1f2328?style=flat-square&logo=openapiinitiative&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-1f2328?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **Frontend**
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f2328?style=flat-square&logo=javascript&logoColor=white)
