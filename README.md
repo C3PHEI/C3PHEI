@@ -38,6 +38,7 @@ Application developer (Applikationsentwickler EFZ) based in Switzerland. I build
 **FeedbackHub** — Guest feedback portal built as my final apprenticeship project (IPA). Vanilla JS frontend, C#/.NET backend, PostgreSQL, single sign-on via Microsoft Entra ID (OAuth 2.0 / PKCE), with rate limiting and a UUID-based schema.
 
 **ImovatecApi** — .NET service that pulls telemetry from ThingsBoard and publishes it over MQTT. Runs in Docker, deployed via GitHub Actions and Portainer.
+![MQTT](https://img.shields.io/badge/MQTT-1f2328?style=flat-square&logo=mqtt&logoColor=white)
 
 **Blackjack** — Desktop card game in WPF, built with MVVM.
 
