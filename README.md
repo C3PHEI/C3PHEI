@@ -45,8 +45,7 @@ Application developer (Applikationsentwickler EFZ) based in Switzerland. I build
 
 ### Currently building
 
-**Home library manager** — A private tool that helps my mum catalogue her large book collection and find any book again. Self-hosted on a Raspberry Pi at home.
-![Raspberry Pi 4](https://img.shields.io/badge/Raspberry%20Pi%204-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+**Home library manager** — A private tool that helps my mum catalogue her large book collection and find any book again. Self-hosted on a ![Raspberry Pi 4](https://img.shields.io/badge/Raspberry%20Pi%204-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white) at home.
 
 **Portfolio website** — My own site, to bring all projects together in one place.
 
