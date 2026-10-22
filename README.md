@@ -43,9 +43,11 @@ Application developer (Applikationsentwickler EFZ) based in Switzerland. I build
 
 **UNO** — C# console implementation of the card game, written from scratch to get the game logic and state handling right.
 
-**Weather app** — Small WPF client consuming a public weather API, again on MVVM.
+### Currently building
 
-Currently building my own portfolio website.
+**Home library manager** — A private tool that helps my mum catalogue her large book collection and find any book again. Self-hosted on a Raspberry Pi at home.
+
+**Portfolio website** — My own site, to bring all projects together in one place.
 
 ### Beyond code
 
