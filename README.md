@@ -15,6 +15,8 @@ Application developer (Applikationsentwickler EFZ) based in Switzerland. I build
 ![JWT](https://img.shields.io/badge/JWT-1f2328?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **Frontend**
+![HTML](https://img.shields.io/badge/HTML-1f2328?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1f2328?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f2328?style=flat-square&logo=javascript&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-1f2328?style=flat-square&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=white)
@@ -57,6 +59,6 @@ IoT and energy management from my time at intelitec: KNX, Node-RED, InfluxDB pip
 
 ### Contact
 
-Always open to interesting backend or full-stack work in Switzerland.
+Open for interesting backend or full-stack jobs in Switzerland.
 
 📧 [maximilian.laepple@gmail.com](mailto:maximilian.laepple@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/maximilian-l%C3%A4pple-78a0892a4)
